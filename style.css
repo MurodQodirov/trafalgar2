@@ -15,7 +15,7 @@ main .s4 .card {
     height: 425px;
     color: white;
     border-radius: 24px;
-    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    background: pink;
 }
 
 main .s4 .card .box1 {

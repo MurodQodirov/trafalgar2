@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main .s4{
+    margin-top: 200px;
+    margin-bottom: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+main .s4 .card {
+    width: 1120px;
+    height: 425px;
+    color: white;
+    border-radius: 24px;
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+}
+
+main .s4 .card .box1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 66px;
+        padding-left: 118px;
+    padding-right: 118px;
+}
+
+main .s4 .card .box1 .box2 {
+    display: flex;
+    align-items: center;
+    gap: 29px;
+}
+
+main .s4 h2 {
+    font-size: 36px;
+    margin-bottom: 25px;
+    margin-top: 69px;
+}
+
+main .s4 .card .box1 .box2  h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+main .s4 .card .box1 p {
+    font-size: 19px;
+    line-height: 30px;
+}
+
+main .s5 .cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 34px;
+}
+
+main .s5 .card {
+    width: 350px;
+    height: 512px;
+    border-radius: 20px;
+    box-shadow: 10px 40px 50px 0px rgba(229, 233, 246, 0.4);
+    margin-top: 79px;
+    margin-bottom: 69px;
+}
+
+main .s5 button {
+    display: block;
+    margin: auto;
+    margin-bottom: 107px;
+}
+
+main .s5 h2 {
+    font-size: 36px;
+    margin-bottom: 26px;
+}
